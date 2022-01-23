@@ -46,4 +46,4 @@ Ao decorrer de todo o desenvolvimento, trabalhamos em equipe e participamos ativ
 
 Nossa interação proporcionou um hambiente de muita troca e aprendizado.
 
-Sou muito grata pela experiência com a equipe, e por quanto juntos aprimoramos nossos conhecimentos nas stacks desse projeto.
+Sou muito grata pela experiência com a equipe, e por juntos aprimoramos nossos conhecimentos nas stacks desse projeto.
