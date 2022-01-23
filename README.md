@@ -40,7 +40,7 @@ ___________
 
 ## Equipe 👭
 
-Esse projeto foi desenvolvido em conjunto pelos amigos [Heloísa Hackenhaar](https://www.linkedin.com/in/heloisa-hackenhaar/), [Iago Ferreira](https://www.linkedin.com/in/iago-de-paula-ferreira/) e [Rafel Ribeiro](https://www.linkedin.com/in/rafittu/).
+Esse projeto foi desenvolvido em conjunto pelos amigos [Carolina Vasconcelos](https://www.linkedin.com/in/carolina-vasconcelos-pinheiro/), [Heloísa Hackenhaar](https://www.linkedin.com/in/heloisa-hackenhaar/), [Iago Ferreira](https://www.linkedin.com/in/iago-de-paula-ferreira/) e [Rafel Ribeiro](https://www.linkedin.com/in/rafittu/).
 
 Ao decorrer de todo o desenvolvimento, trabalhamos em equipe e participamos ativamente no desenvolvimento da aplicação. 
 
